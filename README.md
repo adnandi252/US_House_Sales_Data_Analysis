@@ -2,6 +2,7 @@
 Laporan ini menyajikan analisis mendalam mengenai pasar properti berdasarkan data yang divisualisasikan. Analisis ini dilakukan pada data sintetis yang berisi 3.000 listing properti residensial yang dimodelkan seperti data penjualan rumah riil di Amerika Serikat (dalam format gaya Zillow).Setiap baris mewakili properti unik dan mencakup 16 fitur utama yang umum digunakan oleh agen real estat, investor, dan analis. Data ini mencakup beberapa negara bagian dan kota di AS, dengan nilai yang realistis untuk harga, luas persegi, jumlah kamar tidur/kamar mandi, tipe properti, dan banyak lagi.Analisis mencakup harga, efisiensi penjualan, preferensi pasar, performa agen, dan tren berdasarkan usia bangunan. Setiap visualisasi dibuat untuk menjawab 5 pertanyaan bisnis.
 
 **Sumber Dataset:** [USA House Sales Data by Abdul Wadood from Kaggle](https://www.kaggle.com/datasets/abdulwadood11220/usa-house-sales-data)
+**Link Live Dashboard:** [Dashboard analytics US House Sales Data](https://ushousesalesdataanalysis-fg6ymkkoqdjwfcvevtjc7k.streamlit.app/)
 
 ## **Ringkasan Umum Pasar:**
 * Total Properti Dianalisis: 3,000
